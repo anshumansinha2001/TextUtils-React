@@ -49,6 +49,6 @@ This project is open to contributions. Feel free to fork the repository, make ch
 
 ## License:
 
-This project is licensed under the [codewithharry](LICENSE)
+This project is licensed under the [ @theanshumansinha ](LICENSE)
 
 ---
