@@ -36,7 +36,7 @@ TextUtils goes beyond simple character count by estimating the reading time for 
 
 ## Getting Started:
 
-To use TextUtils, simply visit the website [TextUtils][https://testutils-anshuman.netlify.app/] and start exploring the features. No installation is required, making it easy for users to access the functionalities on the go.
+To use TextUtils, simply visit the website [TextUtils][#] and start exploring the features. No installation is required, making it easy for users to access the functionalities on the go.
 
 ## Contributions:
 
