@@ -4,48 +4,39 @@ LIVE DEMO :- https://testutils-anshuman.netlify.app/
 
 # TextUtils
 
-TextUtils is a basic React frontend website that provides a simple yet powerful set of text manipulation features. With this application, users can perform various operations on the provided text, enhancing their overall experience and productivity.
+TextUtils is a simple yet powerful React frontend website designed to manipulate and analyze text. With a user-friendly interface, it offers a range of operations to enhance the user's text experience.
 
-## Key Features:
+## Features:
 
-### 1. Case Conversion:
-Easily convert text between uppercase and lowercase, giving users the flexibility to customize the appearance of their content.
+1. **Case Conversion:**
+   - Easily convert text between uppercase and lowercase, providing flexibility in text formatting.
 
-### 2. Text-to-Speech:
-TextUtils incorporates the capability to convert written text into spoken words. Users can listen to the input text using the device's voice, adding an auditory dimension to the text manipulation experience.
+2. **Text-to-Speech:**
+   - Experience the convenience of hearing your text using the device's voice. The website uses JavaScript to convert written text into spoken words.
 
-### 3. Word and Character Count:
-Keep track of the number of words and characters in the input text. This feature is particularly useful for users who need to adhere to specific text length constraints.
+3. **Word and Character Count:**
+   - Get instant feedback on the number of words and characters in the provided text, aiding in content analysis.
 
-### 4. Reading Time Calculation:
-TextUtils goes beyond simple character count by estimating the reading time for the input text. This provides users with a quick understanding of the time required to consume the content.
+4. **Reading Time Calculation:**
+   - Estimate the reading time of the entered text, helping users gauge the time investment required to go through the content.
+
+5. **Dark Mode and Contrast Mode:**
+   - Customize your viewing experience with the option to switch between Dark Mode and Contrast Mode for improved readability and reduced eye strain.
 
 ## How to Use:
 
-1. **Case Conversion:**
-   - Toggle between uppercase and lowercase using the provided buttons.
-
-2. **Text-to-Speech:**
-   - Click the "Listen" button to hear the input text pronounced by the device's voice.
-
-3. **Word and Character Count:**
-   - View real-time updates on the number of words and characters as you type.
-
-4. **Reading Time:**
-   - Instantly see an estimate of the reading time based on the entered text.
-
-## Getting Started:
-
-To use TextUtils, simply visit the website [TextUtils][#] and start exploring the features. No installation is required, making it easy for users to access the functionalities on the go.
-
-## Contributions:
-
-This project is open to contributions. Feel free to fork the repository, make changes, and submit a pull request. Your contributions can help enhance the functionality and usability of TextUtils for a wider audience.
+1. Visit the TextUtils website.
+2. Enter or paste your text into the provided text box.
+3. Explore the various features, including case conversion, text-to-speech, word and character count, and reading time calculation.
+4. Toggle between Dark Mode and Contrast Mode for a personalized visual experience.
 
 ## Technologies Used:
 
-- React
-- JavaScript
+- **React:**
+  - The website is built using React, a popular JavaScript library for building user interfaces.
+
+- **JavaScript:**
+  - JavaScript is employed for dynamic functionality, including text-to-speech and real-time text analysis.
 
 ## License:
 
