@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b4767f44.css","mappings":"AAAA,OACE,SACF,CAEA,OACE,YACF","sources":["App.css"],"sourcesContent":[".blank {\n  color: red;\n}\n\n.alert {\n  padding: 10px;\n}"],"names":[],"sourceRoot":""}
